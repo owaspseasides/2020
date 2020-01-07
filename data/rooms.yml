@@ -1,0 +1,23 @@
+- key: lunchroom
+  label: Cenareo
+  description: Hall sponsors / Salle déjeuner
+  skip: true
+- key: halls
+  label: Halls
+  description: Halls
+  skip: true
+- key: office-hours
+  label: Cenareo
+  description: Office-hours
+- key: room1
+  label: Hall 1
+  description: PR0XY
+- key: room2
+  label: Hall 2
+  description: INT@RC@PT
+- key: room3
+  label: Hall 3
+  description: R@C0N
+- key: room4
+  label: Hall 4
+  description: CRYPT0

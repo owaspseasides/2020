@@ -1,0 +1,33 @@
+- day: '2020-03-03'
+  start: '10:00'
+  rooms:
+    - room: room1
+      slots:
+        - slot: slot-1
+          talk: mobile_appsec_android
+        - slot: lunch
+          talk: __lunch
+        - slot: slot-2
+          talk: mobile_appsec_android
+- day: '2020-03-04'
+  start: '10:00'
+  rooms:
+    - room: room1
+      slots:
+        - slot: slot-1
+          talk: mobile_appsec_ios
+        - slot: lunch
+          talk: __lunch
+        - slot: slot-2
+          talk: mobile_appsec_ios          
+- day: '2020-03-05'
+  start: '10:00'
+  rooms:
+    - room: room1
+      slots:
+        - slot: slot-1
+          talk: "To be updated" 
+        - slot: lunch
+          talk: __lunch
+        - slot: slot-2
+          talk: "To be updated"

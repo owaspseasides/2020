@@ -1,0 +1,37 @@
+share:
+  - name: facebook
+    url: ''
+  - name: twitter
+    url: https://twitter.com/intent/tweet?text=
+
+follow:
+  - name: facebook
+    url: https://www.facebook.com/owaspseasides/
+  - name: twitter
+    url: https://twitter.com/owaspseasides
+  - name: linkedin
+    url: https://www.linkedin.com/company/owaspseasides/
+  - name: youtube
+    url: https://www.youtube.com/channel/UCaZOyUr-QhT8Dh5LsRXIUrw
+
+content:
+  - title: footer_about
+    links:
+      - name: OWASP Seasides
+        url: /about_seasides/
+        newTab: false
+      - nameKey: footer_coc
+        url: /code-of-conduct/
+        newTab: false
+
+  - title: footer_previous_edition
+    links:
+      - name: OWASP Seasides 2019
+        url: https://2019.owaspseasides.com/
+        newTab: true
+
+  - title: footer_become_partners
+    links:
+      - nameKey: footer_become_partners_label
+        url: /become-partners/
+        newTab: false

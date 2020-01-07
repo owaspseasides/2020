@@ -1,0 +1,81 @@
+baseURL = "https://www.owaspseasides.com/"
+languageCode = "en"
+title = "OWASP Seasides 2020"
+
+# Theme
+theme = "owaspseasides"
+
+# Params
+
+enableEmoji = true
+enableRobotsTXT = true
+enableMissingTranslationPlaceholders = true
+
+googleAnalytics = "UA-128895083-2"
+
+[params]
+    title = "OWASP Seasides 2020"
+    date = "2019-11-01"
+    description = "Welcome to the Annual OWASP SeaSides InfoSec conference."
+    images = ["/images/social-share.jpg"]
+    email = "cfpowaspseasides@owasp.org"
+    keywords = "security"
+    copyright = "Made with Hugo and Devfest theme :heart:️"
+    cfpUrl = "https://google.com"
+    subscriptionUrl = "http://eepurl.com/gOP9nP"
+    appleTouchIcon = "/apple-touch-icon.png"
+    favicon32 = "/favicon-32x32.png"
+    favicon16 = "/favicon-16x16.png"
+    manifest = "/manifest.json"
+    safariPinnedTab = "/safari-pinned-tab.svg"
+    themeColor = "#673ab7"
+    googleWebmasterKey = "x"
+
+[params.logos]
+    jumbo = "/images/logos/devfest_color_text.png"
+    header = "/images/logos/devfest_color_text.png"
+    footer = "/images/logos/devfest_gray_text.png"
+
+[menu]
+[[menu.main]]
+    identifier = "jobs"
+    name = "OWASP"
+    url = "https://www.owasp.org"
+    weight = 200
+    external = true
+
+[languages]
+[languages.en]
+    weight = 1
+    languageName = "in"
+
+[languages.fr]
+    weight = 2
+    languageName = "gb"
+
+
+
+[taxonomies]
+  tag = "tags"
+
+[privacy]
+  [privacy.disqus]
+    disable = true
+  [privacy.googleAnalytics]
+    anonymizeIP = false
+    disable = false
+    respectDoNotTrack = false
+    useSessionStorage = false
+  [privacy.instagram]
+    disable = true
+    simple = false
+  [privacy.twitter]
+    disable = false
+    enableDNT = false
+    simple = false
+  [privacy.vimeo]
+    disable = true
+    simple = false
+  [privacy.youtube]
+    disable = false
+    privacyEnhanced = false

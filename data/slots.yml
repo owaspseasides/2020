@@ -1,0 +1,21 @@
+- key: slot-1
+  start: '10:00'
+  duration: 180
+  row:
+    start: 1
+    end: 4
+
+- key: lunch
+  start: '13:05'
+  duration: 60
+  row:
+    start: 4
+    end: 6
+
+- key: slot-2
+  start: '14:00'
+  duration: 180
+  row:
+    start: 6
+    end: 9
+

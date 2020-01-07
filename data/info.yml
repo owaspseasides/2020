@@ -1,0 +1,16 @@
+id: HJRThubF4uYPkb7jSUxi
+name: OWASP Seasides 2020
+address:
+  formattedAddress: 'International Centre Goa, Dr E Borges Rd, Dona Paula, Goa, India'
+  locality:
+    short_name: Goa
+    long_name: Goa
+  country:
+    short_name: IN
+    long_name: India
+  latLng:
+    lat: 15.4585581
+    lng: 73.8184071
+dates:
+  start: '2020-03-03T10:00:00.000Z'
+  end: '2020-02-05T10:00:00.000Z'
