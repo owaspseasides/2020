@@ -15,10 +15,10 @@ If you need to edit multiple files, or if you want to check the resulting pages 
 * Install [Hugo](https://gohugo.io/getting-started/installing/). Please install the `extended` version!
 * Install [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
-[Fork this repo](https://github.com/owaspseasides/2020) first, and when cloning your copy install dependent submodules also (the Theme is in a submodule repo):
+[Fork this repo](https://github.com/owaspseasides/2020) first, and the Theme is in a themes/owaspseasides folder.
 
 ```
-$ git clone --recurse-submodules https://github.com/<your github username>/2020.git
+$ git clone https://github.com/<your github username>/2020.git
 ```
 
 Don't forget to make it recursive, or you will have errors executing _hugo_ afterwards!
