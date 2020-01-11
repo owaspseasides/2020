@@ -35,7 +35,7 @@ Through OWASP Bangalore chapter we aim to provide free of cost premium workshops
 {{% /home-info %}}
 
 
-{{< youtube-section link="miC2s5rFzLc" title="Watch 2020 into" class="" >}}
+{{< youtube-section link="7Rzk4KBE7Mc" title="Watch 2020 into" class="" >}}
 
 <!-- ... -->
 
