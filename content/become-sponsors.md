@@ -1,5 +1,5 @@
 ---
-title: Become Partners
+title: Become Sponsors
 
 draft: false
 ---
