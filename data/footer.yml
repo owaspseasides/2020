@@ -33,5 +33,5 @@ content:
   - title: footer_become_partners
     links:
       - nameKey: footer_become_partners_label
-        url: /become-sponsers/
+        url: /sponsorships/
         newTab: false
