@@ -62,7 +62,7 @@ One can acknowledge the fact after going through the APT threat actors’ moveme
 <li>Bypassing the Security Controls to Infiltrate </li>
 <li>Lateral Movement in the Domain Environment </li>
 <li>Privilege Escalation on the Attack Surface </li>
-<li>Establishing C2 channel like Legit </ul>
+<li>Establishing C2 channel like Legit </li>
 <li>Exploiting the trust between the two forest </li>
 <li>LOLBAS to hide and persist in the forest </li>
 <li>Hard to detect Data Exfiltration tunnel </li>

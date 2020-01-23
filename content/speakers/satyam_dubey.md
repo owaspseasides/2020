@@ -3,8 +3,8 @@ key: satyam_dubey
 name: Satyam Dubey
 id: 03
 feature: true
-company: Standard Chartered Bank
-city: 'Singapore'
+company: ''
+city: 'Bhopal'
 photoURL: /images/speakers/satyam_dubey.jpg
 socials:
   - icon: twitter
