@@ -3,7 +3,7 @@ key: bugbountyvillage
 title: Bug Bounty Village
 id: PmoMEVHO3imfUIMXsPai
 language: English
-format: ''
+format: conference
 tags:
   - _web
 level: ''
