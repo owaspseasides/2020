@@ -5,7 +5,7 @@ id: PmoMEVHO3imfUIMXsPai
 language: English
 format: hands-on
 tags:
-  - _native_mobile_apps
+  - _iot
 level: beginner
 speakers:
   - veerababu_penugonda
