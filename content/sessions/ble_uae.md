@@ -5,7 +5,7 @@ id: PmoMEVHO3imfUIMXsPai
 language: English
 format: hands-on
 tags:
-  - _web
+  - _native_mobile_apps
 level: beginner
 speakers:
   - veerababu_penugonda
