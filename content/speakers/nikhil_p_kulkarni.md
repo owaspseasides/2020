@@ -3,7 +3,7 @@ key: nikhil_p_kulkarni
 name: Nikhil P Kulkarni
 id: 03
 feature: true
-company: 'IGS'
+company: ''
 city: 'Bangalore'
 photoURL: /images/speakers/nikhil_p_kulkarni.jpg
 socials:
