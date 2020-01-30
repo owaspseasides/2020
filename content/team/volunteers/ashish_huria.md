@@ -1,8 +1,8 @@
 ---
-title: Ashish Huriya
+title: Ashish Huria
 type: volunteers
 subtitle: ''
-photo: ashish_huriya.jpg
+photo: ashish_huria.jpg
 socials:
   - link: 'https://twitter.com/AshishHuria'
     name: Twitter
