@@ -22,6 +22,7 @@ CTF name is <b>CTF@Seasides</b>.
 <li>You can register in the CTF and play with 3 member team or you can play individually as well.</li>
 <li>CTF Time Availability: 1st Feb 2020, 24h CTF. CTF will start from 12 PM IST.</li>
 <li>CTF Accessibility: The CTF will be accessible online only via invite code which our team will give out to the registered people via registered emails to us.</li>
+<li><b>Winner has to be physically present to collect the prize</b></li>
 </ul>
 
 
