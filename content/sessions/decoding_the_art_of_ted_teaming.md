@@ -72,7 +72,7 @@ One can acknowledge the fact after going through the APT threat actors’ moveme
 <h2>What Shouldn’t be expected: </h2>
 <ul>
 <li>Spoon Feeding the basics of Active Directory Essentials.</li>
-<li>owerShell scripting in-depth.</li>
+<li>PowerShell scripting in-depth.</li>
 <li>Becoming a Red Team Ninja in a 1.</li>
 <li>In-Depth Mitigation Techniques.</li>
 </ul>

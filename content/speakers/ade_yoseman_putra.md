@@ -4,7 +4,7 @@ name: Ade Yoseman Putra
 id: 03
 feature: true
 company: ''
-city: 'Malaysia'
+city: 'Indonesia'
 photoURL: /images/speakers/ade_yoseman_putra.jpg
 socials:
   - icon: ''
