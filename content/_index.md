@@ -41,14 +41,14 @@ Through OWASP Bangalore chapter we aim to provide free of cost premium workshops
 
 
 {{% home-speakers %}}
-{{< button-link label="Scholarship Opportunity"
+<!--{{< button-link label="Scholarship Opportunity"
                 url="https://docs.google.com/forms/d/1r7um0tZ0zE2ICOZ3EZT7GNpsaSBvRUIDGY-SxpXE2_s/edit"
                 icon="cfp" >}}
 
 {{< button-link label="Call for Ideas"
                 url="https://docs.google.com/forms/d/18RqwA-XLk7qWPaCsW0VTKz53Mvk4V76o9N48q4uds2k/edit?ts=5dbe6397"
                 icon="cfp" >}}                
-
+-->
 ## Featured Speakers
 
 

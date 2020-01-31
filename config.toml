@@ -39,8 +39,8 @@ googleAnalytics = "UA-128895083-2"
 [menu]
 [[menu.main]]
     identifier = "jobs"
-    name = "OWASP"
-    url = "https://www.owasp.org"
+    name = "Bug Bounty Village"
+    url = "https://www.bugbountyvillage.com/"
     weight = 200
     external = true
 
