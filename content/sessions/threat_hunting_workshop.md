@@ -1,6 +1,6 @@
 ---
 key: threat_hunting_workshop
-title: Threat_Hunting Workshop
+title: Threat Hunting Workshop
 id: PmoMEVHO3imfUIMXsPai
 language: English
 format: hands-on
@@ -14,7 +14,7 @@ videoId:
 <!--presentation: https://www.blockchainvillage.net/ -->
 draft: false
 ---
-<h2>Threat_Hunting Workshop</h2>
+<h2>Threat Hunting Workshop</h2>
 
 Incident response should be at the top of every organization’s cybersecurity strategy.  
 
