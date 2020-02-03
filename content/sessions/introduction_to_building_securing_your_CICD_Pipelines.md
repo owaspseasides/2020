@@ -11,6 +11,7 @@ speakers:
   - nikhil_p_kulkarni
   - shilpa_ranganatha
   - joshua_jebaraj
+  
 videoId: 
 <!--presentation: https://www.blockchainvillage.net/ -->
 draft: false

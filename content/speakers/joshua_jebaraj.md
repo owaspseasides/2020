@@ -1,14 +1,21 @@
 ---
-key: shilpa_ranganatha
-name: Shilpa Ranganatha
+key: joshua_jebaraj
+name: Joshua Jebaraj
 id: 03
 feature: true
-company: 'Accenture'
-city: 'Bangalore'
-photoURL: /images/speakers/shilpa_ranganatha.jpg
+company: ''
+city: ''
+photoURL: /images/speakers/joshua_jebaraj.jpg
 socials:
   - icon: linkedin
-    link: 'https://www.linkedin.com/in/shilpa-ranganatha-9a3208179/'
-    name: Shilpa Ranganatha
+    link: 'https://www.linkedin.com/in/joshua-jebaraj-b6a543160/'
+    name: joshua jebaraj
+  - icon: twitter
+    link: 'https://twitter.com/joshva_jebaraj'
+    name: joshuajebaraj
+  - icon: github
+    link: 'https://github.com/JOSHUAJEBARAJ'
+    name: joshua jebaraj
+
 ---
-<b>Shilpa Ranganatha</b> works as a Senior Security Delivery Analyst, she’s a Certified Ethical Hacker and her areas of expertise is into iOS and Android Application Security. Her keen interest lies in Cloud Security & into secure CI/CD implementations. She is responsible for innovating the mobile application security assets to ensure secure delivery of the mobile applications at her workplace. She had previously presented her training on iOS Security at OWASP Seasides 2019.
+<b>Joshua Jebaraj</b> works as an intern at Practical DevSecOps alongside his undergrad at Vellore Institute of Technology. He’s been in the Security domain for over 3 years with areas of interest in Web Application, Mobile Application & Cloud Security. He’s a regular contributor to various projects such as “DevSecOps-University” & “Awesome-Threat-Modelling” and is a regular speaker at the Null Community meets.
