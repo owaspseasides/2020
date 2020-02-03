@@ -132,6 +132,6 @@ Goa's leading ideational institute & preferred venue for meetings, seminars, eve
 
 <!-- ... --> 
 
-{{% partners categories="platinium,gold,bronze,silver,diversity partner,supporter" %}}
+{{% partners categories="platinium,gold,silver,bronze,special supporter,supporter" %}}
 ## Partners
 {{% /partners %}}
