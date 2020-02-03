@@ -2,7 +2,7 @@
 key: joshua_jebaraj
 name: Joshua Jebaraj
 id: 03
-feature: true
+feature: false
 company: ''
 city: ''
 photoURL: /images/speakers/joshua_jebaraj.jpg
