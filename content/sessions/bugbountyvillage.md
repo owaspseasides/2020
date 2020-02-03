@@ -28,7 +28,6 @@ The second is “Talks and Workshops”. It aims at sharing knowledge with the b
   th, td {
     border: 1px solid blue;
     padding: 10px;
-    text-align: left;
   }
 </style>
 <table>
