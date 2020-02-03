@@ -1,7 +1,7 @@
 ---
 key: infosecgirls
 title: Infosec Girls
-category: special supporter
+category: diversity partner
 order: 109
 logo: /images/partners/logo-infosecgirls.png
 website: ''
