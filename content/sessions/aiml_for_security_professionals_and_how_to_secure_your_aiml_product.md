@@ -1,6 +1,6 @@
 ---
 key: aiml_for_security_professionals_and_how_to_secure_your_aiml_product
-title: AIML for security professionals and how to secure your AIML product
+title: AI/ML for security professionals and how to secure your AIML product
 id: PmoMEVHO3imfUIMXsPai
 language: English
 format: hands-on
@@ -14,7 +14,7 @@ videoId:
 <!--presentation: https://www.blockchainvillage.net/ -->
 draft: false
 ---
-<h2>AIML for security professionals and how to secure your AIML product</h2>
+<h2>AI/ML for security professionals and how to secure your AIML product</h2>
 
 Session will start from the basics of machine learning and will continue our journey of learning and practicing till we reach a level where participants are able to create a complete automated attack tool using AI/ML.
 
