@@ -21,7 +21,16 @@ The first one is “Unique Bug of the Year award / Best Bounty Hunter of the Yea
 
 The second is “Talks and Workshops”. It aims at sharing knowledge with the bug bounty hunters and security community people who are already in Infosec field/ getting-started/ want to start a career in information security domain.
 
-
+<style>
+  table {
+    border-collapse: collapse;
+  }
+  th, td {
+    border: 1px solid blue;
+    padding: 10px;
+    text-align: left;
+  }
+</style>
 <table>
   <tr>
     <th>Speaker Name</th>
