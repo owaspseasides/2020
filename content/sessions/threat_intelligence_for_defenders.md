@@ -34,7 +34,7 @@ Pyramid of Pain shows the hierarchy of indicators based on how much pain it can 
 
 Among the different types of Threat Intel, Tactical threat Intelligence provides information about the TTPs used by threat actors to achieve their goals. Thus, Tactical Intel is of the highest importance from a technical security standpoint.
 
-<br/>
+
 <h2>About Trainer :</h2>
 
 <b>Avkash Kathiriya</b>, VP - Security Research and Innovation at Cyware Labs Information Security professional with overall 10+ years of experience in the defensive side of the Information Security domain. Currently working on security research in the domain of automated Incident Response using orchestration and Threat Intelligence framework for practical implementation. Also, associated with the Mumbai chapter of the Null community (Open security community).
