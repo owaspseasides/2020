@@ -32,11 +32,11 @@ The second is “Talks and Workshops”. It aims at sharing knowledge with the b
   }
 </style>
 <table>
-  <tr>
-    <th align="center">Speaker Name</th>
-    <th align="center">Talk Title</th>
-    <th align="center">Short Description</th>
-    <th align="center">Register link</th>
+  <tr align="Center">
+    <th>Speaker Name</th>
+    <th>Talk Title</th>
+    <th>Short Description</th>
+    <th>Register link</th>
   </tr>
   <tr>
     <td>Dhamotharan</td>
