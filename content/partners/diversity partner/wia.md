@@ -1,7 +1,7 @@
 ---
 key: wia
 title: WIA
-category: special supporter
+category: diversity partner
 order: 110
 logo: /images/partners/logo-wia.png
 website: ''
