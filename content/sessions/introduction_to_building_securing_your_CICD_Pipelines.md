@@ -10,6 +10,7 @@ level: beginner
 speakers:
   - nikhil_p_kulkarni
   - shilpa_ranganatha
+  - joshua_jebaraj
 videoId: 
 <!--presentation: https://www.blockchainvillage.net/ -->
 draft: false
@@ -54,12 +55,19 @@ This training covers understanding the internals of a CI/CD Pipeline, Bringing u
 		<li>Source Composition Analysis</li>
 		<li>Implementing SAST & DAST</li>
 		<li>Securing your Docker Containers against attacks</li>
-		<li>Vulnerability Management</li>
-		<li>Reporting</li>
 	</ol>
-<li>Taking care of Security Blunders made while working with Terraforms</li>
+<li>Securing your Docker Containers against attacks</li>
+	<ol>
+		<li>Restrict the container using the capabilities</li>
+		<li>Securing docker user</li>
+		<li>Scanning for the secrets</li>
+		<li>Securing the container using the AppArmor</li>
+		<li>Securing the container using the Seccomp</li>
+		<li>Limiting the container resources</li>
+		<li>Auditing the docker configuration using the docker bench</li>
+		<li>Auditing the image using the Clair(Demo-only)</li>
+	</ol>
 <li>Adding Baseline Security using Terraforms</li>
-<li>Automating the process of bringing up secure infrastructure from ground-up</li>
 </ul>
 
 
