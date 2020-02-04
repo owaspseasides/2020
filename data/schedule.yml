@@ -9,6 +9,38 @@
           talk: __lunch
         - slot: slot-2
           talk: mobile_appsec_android
+    - room: room2
+      slots:
+        - slot: slot-1
+          talk: offensive_embedded_exploitation
+        - slot: lunch
+          talk: __lunch
+        - slot: slot-2
+          talk: ble_uae
+    - room: room3
+      slots:
+        - slot: slot-1
+          talk: exploit_development
+        - slot: lunch
+          talk: __lunch
+        - slot: slot-2
+          talk: exploit_development
+    - room: room4
+      slots:
+        - slot: slot-1
+          talk: hardware_hacking_village
+        - slot: lunch
+          talk: __lunch
+        - slot: slot-2
+          talk: hardware_hacking_village
+    - room: room5
+      slots:
+        - slot: slot-1
+          talk: introduction_to_building_securing_your_CICD_Pipelines
+        - slot: lunch
+          talk: __lunch
+        - slot: slot-2
+          talk: introduction_to_building_securing_your_CICD_Pipelines
 - day: '2020-03-04'
   start: '10:00'
   rooms:
