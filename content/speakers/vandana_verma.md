@@ -3,7 +3,7 @@ key: vandana_verma
 name: Vandana Verma
 id: 03
 feature: true
-company: ''
+company: 'IBM'
 city: 'Bangalore'
 photoURL: /images/speakers/vandana_verma.jpg
 socials:
