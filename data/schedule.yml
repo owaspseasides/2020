@@ -90,7 +90,7 @@
     - room: room1
       slots:
         - slot: slot-1
-          talk: 'To be updated'
+          talk: decoding_the_art_of_ted_teaming
         - slot: lunch
           talk: __lunch
         - slot: slot-2

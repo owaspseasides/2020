@@ -3,7 +3,7 @@ key: vandana_verma
 name: Vandana Verma
 id: 03
 feature: true
-company: 'IBM'
+company: 'OWASP Global Board Member'
 city: 'Bangalore'
 photoURL: /images/speakers/vandana_verma.jpg
 socials:
