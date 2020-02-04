@@ -10,17 +10,17 @@
   label: Cenareo
   description: Office-hours
 - key: room1
-  label: ''
+  label: Hall 1
   description: PR0XY
 - key: room2
-  label: ''
+  label: Hall 2
   description: INT@RC@PT
 - key: room3
-  label: ''
+  label: Hall 3
   description: R@C0N
 - key: room4
-  label: ''
+  label: Hall 4
   description: CRYPT0
 - key: room5
-  label: ''
+  label: Hall 5
   description: EXPL0!T
