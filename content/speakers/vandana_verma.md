@@ -9,11 +9,9 @@ photoURL: /images/speakers/vandana_verma.jpg
 socials:
   - icon: twitter
     link: 'https://twitter.com/InfosecVandana'
-    name: Vandana Verma
   - icon: linkedin
     link: 'https://www.linkedin.com/in/vandana-verma/'
-    name: Vandana Verma
-
+   
 ---
 <b>Vandana</b> is a seasoned security professional with over a decade worth of experience ranging from application security to infrastructure and now dealing with DevSecOps. She is currently working as a Security Architect with IBM India Software Labs.
 
