@@ -3,7 +3,7 @@ key: sven_schleier
 name: Sven Schleier
 id: 03
 feature: true
-company: Standard Chartered Bank
+company: OWASP
 city: 'Singapore'
 photoURL: /images/speakers/sven_schleier.jpg
 socials:
