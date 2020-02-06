@@ -1,7 +1,7 @@
 ---
 key: google
 title: Google
-category: Gold
+category: gold
 order: 101
 logo: /images/partners/logo-google.png
 website: ''
