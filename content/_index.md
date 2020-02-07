@@ -55,6 +55,11 @@ Through OWASP Bangalore chapter we aim to provide free of cost premium workshops
 
 {{% /home-speakers %}}
 
+<!-- ... --> 
+
+{{% partners categories="platinium,gold,silver,bronze,special supporter,diversity partner,supporter" %}}
+## Partners
+{{% /partners %}}
 
 <!-- ... -->
 
@@ -130,8 +135,4 @@ Goa's leading ideational institute & preferred venue for meetings, seminars, eve
 
 {{% /album  %}}
 
-<!-- ... --> 
 
-{{% partners categories="platinium,gold,silver,bronze,special supporter,diversity partner,supporter" %}}
-## Partners
-{{% /partners %}}
