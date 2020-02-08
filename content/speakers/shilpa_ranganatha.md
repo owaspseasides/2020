@@ -3,7 +3,7 @@ key: shilpa_ranganatha
 name: Shilpa Ranganatha
 id: 03
 feature: true
-company: 'Accenture'
+company: ''
 city: 'Bangalore'
 photoURL: /images/speakers/shilpa_ranganatha.jpg
 socials:
