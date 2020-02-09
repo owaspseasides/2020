@@ -7,7 +7,7 @@ company: 'Student - Amrita Vishwa Vidyapeetham'
 city: ''
 photoURL: /images/speakers/rahul_j.jpg
 socials:
-  - icon: Linkedin
+  - icon: linkedin
     link: 'https://www.linkedin.com/in/rahul-jeyasingh-154273167/'
     name: Rahul Jeyasingh
 
