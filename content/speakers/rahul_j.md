@@ -3,7 +3,7 @@ key: rahul_j
 name: Rahul J
 id: 03
 feature: false
-company: 'Student'
+company: 'Student - Amrita Vishwa Vidyapeetham'
 city: ''
 photoURL: /images/speakers/rahul_j.jpg
 socials:
