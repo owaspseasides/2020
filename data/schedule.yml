@@ -110,7 +110,7 @@
         - slot: lunch
           talk: __lunch
         - slot: slot-2
-          talk: 'To be updated'
+          talk: arduino_training_101
     - room: room4
       slots:
         - slot: slot-1
