@@ -3,7 +3,7 @@ key: kartheek_lade
 name: Kartheek Lade
 id: 03
 feature: true
-company: 'Student'
+company: 'Student - Amrita Vishwa Vidyapeetham'
 city: ''
 photoURL: /images/speakers/kartheek_lade.jpg
 socials:

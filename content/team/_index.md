@@ -23,7 +23,7 @@ To make all this possible, an awesome team of volunteers is working behind the s
 {{< teams types="core=Core Team,volunteers=Volunteers" >}}
 <!-- ... -->
 
-<!--{{% partners categories="communautes,media" %}}
+<!--{{% partners categories="" %}}
  # Partners 
 {{% /partners %}}
 -->
