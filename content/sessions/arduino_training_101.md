@@ -20,6 +20,7 @@ Arduino can operate either independently (like in a robot), connected to a compu
 
 The main aim of this training program is to educate people on Coding & Developing real-world applications using Arduino.
 
+<b>A limited number of All hardware including Arduino required for this training will be provided during the session for free of cost. Attendees are to be formed in the groups (3-4 people), component kits are provided to the teams, not to the individuals. We encourage all teams to come with their own idea by the end of the day.</b>
 
 <h2>Prerequisites</h2>
 <ul>
