@@ -13,7 +13,7 @@
 
   .type::after {
     font-weight: 100;
-    content: ' (' var(--duration, '') ' hr)';
+    content: ' ';
   }
 
   .speakers {
