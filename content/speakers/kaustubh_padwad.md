@@ -4,7 +4,7 @@ name: Kaustubh Padwad
 id: 03
 feature: true
 company: 'Reliance Jio'
-city: 'Bangalore'
+city: 'Mumbai'
 photoURL: /images/speakers/kaustubh_padwad.jpg
 socials:
   - icon: ''
