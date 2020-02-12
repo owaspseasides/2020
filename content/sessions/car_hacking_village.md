@@ -1,6 +1,6 @@
 ---
 key: car_hacking_village
-title: Car hacking Village 
+title: Car Hacking Village 
 id: PmoMEVHO3imfUIMXsPai
 language: English
 format: hands-on
