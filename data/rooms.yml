@@ -24,3 +24,6 @@
 - key: room5
   label: Hall 5
   description: EXPL0!T
+- key: room6
+  label: Hall 6
+  description: HHV
