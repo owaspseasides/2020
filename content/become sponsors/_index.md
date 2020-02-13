@@ -1,5 +1,5 @@
 ---
-title: Sponsors
+title: Become Sponsors
 menu:
   main:
     weight: 50
