@@ -13,7 +13,7 @@ videoId:
 <!--presentation: https://www.blockchainvillage.net/ -->
 draft: false
 ---
-<h2>ALL ( Automotive, ICS, IoT ) Villag</h2>
+<h2>ALL ( Automotive, ICS, IoT ) Village</h2>
 
 ALL village refers to Automotive Ics IoT, comes under one village which gives the opportunity to attendees to play with CAR (CAR Hacking village), ICS and IoT. Attendees will have opportunity deal with real word practical session, understand the methodologies to conduct Hardware Testing, Automotive Testing, IoT Testing and ICS Testing.
 
