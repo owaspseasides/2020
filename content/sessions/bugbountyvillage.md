@@ -1,6 +1,6 @@
 ---
 key: bugbountyvillage
-title: Bug Bounty Village
+title: Bug Bounty Village (BBV)
 id: PmoMEVHO3imfUIMXsPai
 language: English
 format: hands-on

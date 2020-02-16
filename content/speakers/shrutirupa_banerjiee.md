@@ -3,7 +3,7 @@ key: shrutirupa_banerjiee
 name: Shrutirupa Banerjiee
 id: 03
 feature: true
-company: 
+company: 'Qualys'
 city: ''
 photoURL: /images/speakers/shrutirupa_banerjiee.jpg
 socials:
