@@ -9,6 +9,7 @@ tags:
 level: beginner
 speakers:
   - arun_mane
+  - jay_turla
 videoId: 
 <!--presentation: https://www.blockchainvillage.net/ -->
 draft: false
