@@ -1,15 +1,18 @@
 ---
-key: nimisha_dugyala
-name: Nimisha Dugyala
+key: nimisha_dughyala
+name: Nimisha Dughyala
 id: 03
 feature: true
 company: 
 city: ''
-photoURL: /images/speakers/nimisha_dugyala.jpg
+photoURL: /images/speakers/nimisha_dughyala.jpg
 socials:
   - icon: twitter
     link: 'https://twitter.com/nimisha_dugyala'
-    name: ''
+    name: 'Nimisha Dugyala'
+  - icon: linkedin
+    link: 'https://www.linkedin.com/in/nimisha-dughyala/'
+    name: 'Nimisha Dughyala'
 
 ---
 
