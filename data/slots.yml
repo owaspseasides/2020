@@ -31,21 +31,21 @@
   duration: 45
   row:
     start: 3
-    end: 5
+    end: 4
 
 - key: slot-5
   start: '11:30'
   duration: 45
   row:
-    start: 5
-    end: 7
+    start: 4
+    end: 5
 
 - key: slot-6
   start: '12:15'
   duration: 45
   row:
-    start: 7
-    end: 9
+    start: 5
+    end: 6
 
 - key: slot-7
   start: '14:00'
