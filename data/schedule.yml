@@ -143,8 +143,10 @@
           talk: car_hacking_village
     - room: room5
       slots:
-        - slot: slot-1
-          talk: kubernetes_overview_and_exploitation
+        - slot: slot-3
+          talk: hacking_the_0day_market 
+        - slot: slot-9
+          talk: kubernetes_overview_and_exploitation 
         - slot: lunch
           talk: __lunch
         - slot: slot-2

@@ -54,3 +54,10 @@
   row:
     start: 12
     end: 14
+
+- key: slot-9
+  start: '10:45'
+  duration: 135
+  row:
+    start: 3
+    end: 7
