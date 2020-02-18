@@ -138,11 +138,11 @@
     - room: room5
       slots:
         - slot: slot-1
-          talk: 'To be updated'
+          talk: kubernetes_overview_and_exploitation
         - slot: lunch
           talk: __lunch
         - slot: slot-2
-          talk: 'To be updated'
+          talk: fuzzing_softwares_for_bugs
     - room: room6
       slots:
         - slot: slot-1
