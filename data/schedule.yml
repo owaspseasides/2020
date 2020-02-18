@@ -71,11 +71,15 @@
     - room: room3
       slots:
         - slot: slot-1
-          talk: bugbountyvillage
+          talk: decoding_multiple_vulnerabilities_on_pulse_secure_vpn
+          talk: google_vrp_bughunters
+          talk: mobexler
+          talk: crypto_for_bounty_hunters
         - slot: lunch
           talk: __lunch
         - slot: slot-2
-          talk: bugbountyvillage
+          talk: crypto_for_bounty_hunters
+          talk: exploiting_server_side_applications
     - room: room4
       slots:
         - slot: slot-1
@@ -110,7 +114,7 @@
         - slot: lunch
           talk: __lunch
         - slot: slot-2
-          talk: 'To be updated'
+          talk: cmd_ctrl 
     - room: room2
       slots:
         - slot: slot-1
