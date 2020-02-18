@@ -82,6 +82,7 @@
           talk: __lunch
         - slot: slot-7
           talk: crypto_for_bounty_hunters
+        - slot: slot-8          
           talk: exploiting_server_side_applications
     - room: room4
       slots:
