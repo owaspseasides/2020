@@ -1,6 +1,6 @@
 ---
 key: google_vrp_bughunters
-title: BBV - Google VRP Bughunters
+title: Google VRP Bughunters
 id: PmoMEVHO3imfUIMXsPai
 language: English
 format: hands-on

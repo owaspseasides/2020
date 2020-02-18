@@ -1,6 +1,6 @@
 ---
 key: crypto_for_bounty_hunters
-title: BBV - Crypto for Bounty Hunters
+title: Crypto for Bounty Hunters
 id: PmoMEVHO3imfUIMXsPai
 language: English
 format: hands-on

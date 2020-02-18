@@ -1,6 +1,6 @@
 ---
 key: mobexler
-title: BBV - Mobexler - AIO Mobile Pentest VM
+title: Mobexler - AIO Mobile Pentest VM
 id: PmoMEVHO3imfUIMXsPai
 language: English
 format: hands-on
