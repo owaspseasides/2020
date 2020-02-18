@@ -3,7 +3,7 @@
   duration: 180
   row:
     start: 1
-    end: 9
+    end: 5
 
 - key: lunch
   start: '13:05'
@@ -17,7 +17,7 @@
   duration: 180
   row:
     start: 10
-    end: 13
+    end: 14
 
 - key: slot-3
   start: '10:00'
@@ -51,12 +51,12 @@
   start: '14:00'
   duration: 90
   row:
-    start: 9
-    end: 11
+    start: 10
+    end: 12
 
 - key: slot-8
   start: '15:30'
   duration: 120
   row:
-    start: 11
-    end: 13
+    start: 12
+    end: 14
