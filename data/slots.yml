@@ -3,20 +3,20 @@
   duration: 180
   row:
     start: 1
-    end: 8
+    end: 9
 
 - key: lunch
   start: '13:05'
   duration: 60
   row:
-    start: 8
-    end: 9
+    start: 9
+    end: 10
 
 - key: slot-2
   start: '14:00'
   duration: 180
   row:
-    start: 9
+    start: 10
     end: 13
 
 - key: slot-3
