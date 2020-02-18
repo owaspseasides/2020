@@ -3,7 +3,7 @@ key: rushikesh_nandedkar
 name: Rushikesh Nandedkar
 id: 03
 feature: true
-company: 
+company: FireEye
 city: ''
 photoURL: /images/speakers/rushikesh_nandedkar.jpg
 socials:
