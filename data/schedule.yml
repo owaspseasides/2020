@@ -70,14 +70,17 @@
           talk: web_application_pentesting_training
     - room: room3
       slots:
-        - slot: slot-1
+        - slot: slot-3
           talk: decoding_multiple_vulnerabilities_on_pulse_secure_vpn
+        - slot: slot-4
           talk: google_vrp_bughunters
+        - slot: slot-5
           talk: mobexler
+        - slot: slot-6
           talk: crypto_for_bounty_hunters
         - slot: lunch
           talk: __lunch
-        - slot: slot-2
+        - slot: slot-7
           talk: crypto_for_bounty_hunters
           talk: exploiting_server_side_applications
     - room: room4

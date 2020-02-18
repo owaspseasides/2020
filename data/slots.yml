@@ -19,3 +19,37 @@
     start: 6
     end: 9
 
+- key: slot-3
+  start: '10:00'
+  duration: 60
+  row:
+    start: 1
+    end: 3
+
+- key: slot-4
+  start: '11:00'
+  duration: 60
+  row:
+    start: 4
+    end: 6
+
+- key: slot-5
+  start: '12:00'
+  duration: 60
+  row:
+    start: 7
+    end: 9
+
+- key: slot-6
+  start: '14:00'
+  duration: 120
+  row:
+    start: 10
+    end: 12   
+
+- key: slot-7
+  start: '16:00'
+  duration: 120
+  row:
+    start: 13
+    end: 15    
