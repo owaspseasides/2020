@@ -12,3 +12,4 @@ socials:
     name: ''
 
 ---
+Security Engineer with over 6 years professional experience and a badass attitude for bringing insecure websites to their knees.  
