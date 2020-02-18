@@ -14,8 +14,11 @@ videoId:
 <!--presentation: https://www.blockchainvillage.net/ -->
 draft: false
 ---
-Security Innovation is teaming up with OWASP Seasides to offer attendees a fun "find the vulnerabilities" game - CMD+CTRL Cyber Range - that shows how hackers break into websites and teaches the importance of secure coding habits.
-The CMD+CTRL Cyber Range we will be using is called ShadowBank, a banking website where players compete to find vulnerabilities, score points, and move up the leaderboard. "Leveraging cheat sheets, players take their shot at stealing money, manipulating share prices, and conducting other nefarious acts."
+Want to test your skills in identifying web app vulnerabilities?  Join OWASP Las Vegas and Security Innovation as members compete in CMD+CTRL, a web application cyber range where players exploit their way through hundreds of vulnerabilities that lurk in business applications today.  Success means learning quickly that attack and defense is all about thinking on your feet.
+
+https://si-community.hubs.vidyard.com/watch/JCH8L2Ym4WXB7cNCb3izcr
+
+For each vulnerability you uncover, you are awarded points. Climb the interactive leaderboard for a chance to win fantastic prizes! CMD+CTRL is ideal for development teams to train and develop skills, but anyone involved in keeping your organization’s data secure can play - from developers and managers and even CISOs.
 
 <b>NOTE:</b> Just bring your computer and evil inner-doer and you are ready to roll!
 
