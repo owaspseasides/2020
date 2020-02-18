@@ -76,8 +76,6 @@
           talk: google_vrp_bughunters
         - slot: slot-5
           talk: mobexler
-        - slot: slot-6
-          talk: crypto_for_bounty_hunters
         - slot: lunch
           talk: __lunch
         - slot: slot-7
