@@ -1,6 +1,6 @@
 ---
 key: decoding_multiple_vulnerabilities_on_pulse_secure_vpn
-title: BBV -  Decoding Multiple Vulnerabilities on Pulse Secure VPN
+title: Decoding Multiple Vulnerabilities on Pulse Secure VPN
 id: PmoMEVHO3imfUIMXsPai
 language: English
 format: hands-on
