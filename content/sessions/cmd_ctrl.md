@@ -8,7 +8,8 @@ tags:
   - keynote
 level: beginner
 speakers:
-  - ''
+  - chandni_kanaujia
+  - harsh_bothra
   
 videoId: 
 <!--presentation: https://www.blockchainvillage.net/ -->
