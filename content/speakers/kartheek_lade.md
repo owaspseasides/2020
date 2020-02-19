@@ -15,4 +15,4 @@ socials:
     name: Kartheek Lade    
 
 ---
-Kartheek(0xh3nry) is a member of team bi0s from Amrita Vishwa Vidyapeetham, Amritapuri. He is currently pursuing his third-year undergraduate education in Mechanical engineering, He is also looking into Mechatronics and MEMS branches as part of his curiosities, Along with his studies he enjoys developing resources to learn about Automotive security and Mechatronics with ease. You can reach out to him on Twitter @0xh3nry
+Kartheek(0xh3nry) is a student of from Amrita Vishwa Vidyapeetham, Amritapuri. He is currently pursuing his third-year undergraduate education in Mechanical engineering, He is also looking into Mechatronics and MEMS branches as part of his curiosities, Along with his studies he enjoys developing resources to learn about Automotive security and Mechatronics with ease. You can reach out to him on Twitter @0xh3nry
