@@ -11,9 +11,9 @@ why: >-
   We are quite pleased and proud to be able to play a concrete part in its
   success.  
 socials:
-  - icon: ''
-    link: ''
-    name: ''
+  - icon: linkedin
+    link: 'https://www.linkedin.com/company/sumeru-solutions/'
+    name: 'Sumeru Solutions'
 
 ---
 It all started in the year 2001. A bunch of us, some fresh from IITs and some working for the big guys, wanted to stitch technology and social change together.
