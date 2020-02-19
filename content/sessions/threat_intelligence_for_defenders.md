@@ -5,7 +5,7 @@ id: PmoMEVHO3imfUIMXsPai
 language: English
 format: hands-on
 tags:
-  - _native_mobile_apps
+  - _method___tools
 level: beginner
 speakers:
   - avkash_kathiriya

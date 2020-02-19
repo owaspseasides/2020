@@ -11,7 +11,7 @@
   name: "\U0001F4DD Languages"
   id: b425f929-b026-52e9-87f4-89b30ec542d1
 - key: _method___tools
-  name: "\U0001F6E0 Method & Tools"
+  name: "\U0001F6E0 Threat Hunting"
   id: bb5eeaca-3d8d-5858-b4a9-63d90a11a792
 - key: _native_mobile_apps
   name: "\U0001F4F1 Appsec"
