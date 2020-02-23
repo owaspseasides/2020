@@ -14,6 +14,8 @@ videoId:
 <!--presentation: https://www.blockchainvillage.net/ -->
 draft: false
 ---
+<b>Duration:</b> 10:30 AM to 11:15 AM
+
 Ever wished to have a virtual machine with tools for security testing of Android as well as iOS applications. Well, Mobexler is a mobile pentest VM that includes a wide variety of tools to help in Android and iOS pentesting. It includes tools for both static and dynamic analysis of applications, allowing pentesters to use a single virtual machine setup and perform pentest of Android and iOS applications, both.  Based on elementary OS, Mobexler provides an awesome UI experience and allows for intuitive usage of tools just like you would on a host install. External devices like iPhone/iPad/Android devices can also be connected via USB or over TCP and can be used to perform security testing on applications.
 more details http://mobexler.com/
 
