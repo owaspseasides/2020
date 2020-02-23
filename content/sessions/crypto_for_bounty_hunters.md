@@ -14,6 +14,10 @@ videoId:
 <!--presentation: https://www.blockchainvillage.net/ -->
 draft: false
 ---
+<b>Duration:</b> 11:30 AM to 01:00 PM
+				 <b>Lunch Break</b>
+				 02:00 PM to 03:30 PM
+
 Bug bounty is one of the common platform for security researchers to learn and earn more. There are researchers out there who sometimes miss certain domains and cryptography is one such domain which should never be forgotten. The session will talk about the basics of cryptography that a bug bounty hunter has to focus on to find cryptography related flaws. The audience will learn about how a simple cryptography flaw, once ignored, can be manipulated into a vulnerability. The audience will also get to know some common cryptography based exploits to achieve bounties.  Meanwhile, the audience will also learn about different vulnerabilities and their exploitations with the help of some exercises that will be provided to them along with the explanation of each vulnerability.
 
 <h2>Some of the vulnerabilities which will be covered are:</h2>
