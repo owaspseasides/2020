@@ -15,6 +15,8 @@ videoId:
 <!--presentation: https://www.blockchainvillage.net/ -->
 draft: false
 ---
+<b>Duration:</b> 02:00 PM to 06:00 PM
+
 This workshop focuses on the fuzzing softwares for bugs which will cover various techniques, tools & analysis techniques starting from file fuzzers till browser fuzzing.
 
 
