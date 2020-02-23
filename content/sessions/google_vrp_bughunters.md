@@ -14,6 +14,8 @@ videoId:
 <!--presentation: https://www.blockchainvillage.net/ -->
 draft: false
 ---
+<b>Duration:</b> 09:45 AM to 10:30 AM
+
 Team will cover the Google VRP programs, some interesting facts and new things added this year to our VRP programs and also the best bugs Google received from our researchers community in the last year.
 
 

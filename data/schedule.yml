@@ -1,5 +1,5 @@
 - day: '2020-03-03'
-  start: '10:00'
+  start: '09:00'
   rooms:
     - room: room1
       slots:
@@ -50,7 +50,7 @@
         - slot: slot-2
           talk: hardware_hacking_village          
 - day: '2020-03-04'
-  start: '10:00'
+  start: '09:00'
   rooms:
     - room: room1
       slots:
@@ -107,7 +107,7 @@
         - slot: slot-2
           talk: hardware_hacking_village          
 - day: '2020-03-05'
-  start: '10:00'
+  start: '09:00'
   rooms:
     - room: room1
       slots:
