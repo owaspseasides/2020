@@ -14,6 +14,8 @@ videoId:
 <!--presentation: https://www.blockchainvillage.net/ -->
 draft: false
 ---
+<b>Duration:</b> 09:00 AM to 09:45 AM
+
 The 0day vulnerability market developed over the years in a way that is unsafe, chaotic and rather inefficient. Bad business practices, lack of professionalism and low levels of trust are still spread in this market even today and can seriously hamper the ability of law enforcement and intelligence agencies to acquire and maintain strategic cyber capabilities in order to fight organized crime, terrorism and hostile geopolitical actors. 
 
 Having a deep understanding of these issues and of their solutions, Crowdfense is “hacking the 0day market” in order to improve it for all the parties involved (researchers, customers, brokers, integrators and end users), by introducing new quality standards and best practices related to products, services and to the sustainability of the underlying business processes. 
