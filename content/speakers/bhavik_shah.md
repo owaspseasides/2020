@@ -3,7 +3,7 @@ key: bhavik_shah
 name: Bhavik Shah
 id: 03
 feature: true
-company: ''
+company: 'Cisco'
 city: 'Bangalore'
 photoURL: /images/speakers/bhavik_shah.jpg
 socials:
