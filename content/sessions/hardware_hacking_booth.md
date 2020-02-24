@@ -1,6 +1,6 @@
 ---
-key: hardware_hacking
-title: Hardware Hacking
+key: hardware_hacking_booth
+title: Hardware Hacking Booth
 id: PmoMEVHO3imfUIMXsPai
 language: English
 format: hands-on
@@ -13,8 +13,6 @@ videoId:
 <!--presentation: https://www.blockchainvillage.net/ -->
 draft: false
 ---
-<h2>Build your own hacking gadgets</h2>
-
 This Session will focus on Hardware hacking through UART pins. Attendees will have opportunity to have hands on determining UART pins and accessing the shell access of the device . 
 
 <h2>Topics covered:</h2>
