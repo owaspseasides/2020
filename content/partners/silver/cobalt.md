@@ -1,6 +1,6 @@
 ---
 key: cobalt
-title: CObalt
+title: Cobalt
 category: silver
 order: 104
 logo: /images/partners/logo-cobalt.png
