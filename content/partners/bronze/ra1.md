@@ -1,6 +1,6 @@
 ---
 key: ra1
-title: Network Intelligence
+title: DashaGriiva Infotech
 category: bronze
 order: 104
 logo: /images/partners/logo-ra1.png
