@@ -11,9 +11,6 @@ why: >-
   We are quite pleased and proud to be able to play a concrete part in its
   success.  
 socials:
-  - icon: instagram
-    link: 'https://www.instagram.com/carrypro/'
-    name: Qualitrix
   - icon: facebook
     link: 'https://www.facebook.com/carrypro.in'
     name: CarryPro
