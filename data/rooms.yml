@@ -11,19 +11,19 @@
   description: Office-hours
 - key: room1
   label: Hall 1
-  description: PR0XY
+  description: ABOLIM
 - key: room2
   label: Hall 2
-  description: INT@RC@PT
+  description: MANDOVI
 - key: room3
   label: Hall 3
-  description: R@C0N
+  description: ZAURI
 - key: room4
   label: Hall 4
-  description: CRYPT0
+  description: BBV
 - key: room5
   label: Hall 5
-  description: EXPL0!T
+  description: SAL
 - key: room6
   label: Hall 6
-  description: HHV
+  description: RECREATION
