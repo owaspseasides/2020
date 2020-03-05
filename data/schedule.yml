@@ -128,7 +128,7 @@
     - room: room3
       slots:
         - slot: slot-1
-          talk: bugbountyvillage
+          talk: arduino_training_101
         - slot: lunch
           talk: __lunch
         - slot: slot-2
