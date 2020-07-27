@@ -30,5 +30,6 @@ Scan for WiFi devices, block selected connections, create dozens of networks and
 <h2>About Trainer :</h2>
 
 <b>Seedon D'Souza</b> (Security Researcher) Opensource Hardware.
-
+<!--
 <a align="center" class="btn primary" target="_blank" rel="noopener" href="https://docs.google.com/forms/d/1d9hdyZVtIsEoPutSPrIy4grqEKHvJOOnpzjNI0m2IFo/edit">Register</a>
+-->

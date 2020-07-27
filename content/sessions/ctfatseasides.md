@@ -27,5 +27,6 @@ CTF name is <b>CTF@Seasides</b>.
 
 
 <b>Prizes:</b> Winner will get <b><font color="red">XBox</font></b>.
-
+<!--
 <a align="center" class="btn primary" target="_blank" rel="noopener" href="https://docs.google.com/forms/d/1hCFEtGcU8UaBJCg4heiwzwNYTtRFEGDUUHfUf78US5w">Register</a>
+-->

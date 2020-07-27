@@ -63,4 +63,6 @@ After successful completion of this course, students will have a better understa
 
 <b>Sven made</b> several stops at big consultant companies and small boutique firms in Germany and Singapore and became specialised in Application Security and has supported and guided software development projects for Mobile and Web Applications during the whole SDLC. Besides his day job Sven is one of the core project leaders and authors of the OWASP Mobile Security Testing Guide and OWASP Mobile Application Security Verification Standard and has created the OWASP Mobile Hacking Playground. Sven is giving talks and workshops about Mobile and Web Application Security worldwide to different audiences, ranging from developers to students and penetration testers.
 
+<!--
 <a align="center" class="btn primary" target="_blank" rel="noopener" href="https://docs.google.com/forms/d/1j1sl5i7XuMel_FmijJsJb5Zcl2iuTW9QVMNxCibCf-o">Register</a>
+-->

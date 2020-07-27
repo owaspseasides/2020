@@ -24,4 +24,6 @@ more details http://mobexler.com/
 
 Co-trainer in several Web and Mobile Application security training by ENCIPHERS. Active member and contributor at various security communities including null, OWASP, G4H. Presenter at OWASPminicon Goa 2018. Presenter/Speaker at Null & OWASP chapters. A Happy Volunteering team member of OWASP Seasides and Nullcon Security Conferences. Penetration tester, Security analyst.
 
+<!--
 <a align="center" class="btn primary" target="_blank" rel="noopener" href="https://docs.google.com/forms/d/11kp_MRnOz0MQOBd9osRbtUPK3IKyMNx9r2FbcXqo8wg/">Register</a>
+-->

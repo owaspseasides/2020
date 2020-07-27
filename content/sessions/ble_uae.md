@@ -69,5 +69,6 @@ We will learn how to develop and flash the code with arduino to microcontroller 
 <h2>About Trainer :</h2>
 
 <b>Mr.Veerababu(Mr-IoT)</b> having more than 5 years experience in the information security mainly focussing on IoT Security. experienced in embedded IoT development and pentesting it.
-
+<!--
 <a align="center" class="btn primary" target="_blank" rel="noopener" href="https://docs.google.com/forms/d/1HYaiKRx3B-dca3fXAq7kI5viVgPpfRz7kxfNWltbOmI/">Register</a>
+-->
