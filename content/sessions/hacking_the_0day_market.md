@@ -40,5 +40,6 @@ Since 2012, he has served as a board member of Clusit (Italian ICT Security Asso
 He is also the author of many cyber-security guidelines and best practices, including Italy's ""National Cybersecurity Framework"" and ENISA ""Cyber Security and Resilience for Smart Hospitals.""
 
 His depth of experience drove the design, management and launch of Crowdfense — the world's most advanced Vulnerability Research Hub.
-
+<!--
 <a align="center" class="btn primary" target="_blank" rel="noopener" href="https://docs.google.com/forms/d/1ieWfsOLWQrb-qqy6AnteQZMCSECfHsdAhNH8svtZ7qs/">Register</a>
+-->

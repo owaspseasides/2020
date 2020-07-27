@@ -29,5 +29,6 @@ For each vulnerability you uncover, you are awarded points. Climb the interactiv
 Chandni is a Security Engineer with over 6 years professional experience and a badass attitude for bringing insecure websites to their knees.  
 
 Harsh  -Recently graduated from college and at his first professional post, Harsh exudes the skills and confidence of a pro-hacker. He is currently working to tame his inner pwnig powers and putting them to use for the greater good
-
+<!--
 <a align="center" class="btn primary" target="_blank" rel="noopener" href="https://docs.google.com/forms/d/1OXvCL3a5LGFu6YOGYJWJROJNiCJPPAueIvl6-Rkzf_M/">Register</a>
+-->

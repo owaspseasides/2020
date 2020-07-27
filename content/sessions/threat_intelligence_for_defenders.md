@@ -39,4 +39,6 @@ Among the different types of Threat Intel, Tactical threat Intelligence provides
 
 <b>Avkash Kathiriya</b>, VP - Security Research and Innovation at Cyware Labs Information Security professional with overall 10+ years of experience in the defensive side of the Information Security domain. Currently working on security research in the domain of automated Incident Response using orchestration and Threat Intelligence framework for practical implementation. Also, associated with the Mumbai chapter of the Null community (Open security community).
 
+<!--
 <a align="center" class="btn primary" target="_blank" rel="noopener" href="https://docs.google.com/forms/d/1kGabIi7H4Kfg7fmMIeu1ZYZflU0EYG38G-JurvNo42E/">Register</a>
+-->

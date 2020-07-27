@@ -19,5 +19,6 @@ draft: false
 
 This workshop focuses on the fuzzing softwares for bugs which will cover various techniques, tools & analysis techniques starting from file fuzzers till browser fuzzing.
 
-
+<!--
 <a align="center" class="btn primary" target="_blank" rel="noopener" href="https://docs.google.com/forms/d/1W2TPArTX3x46jziylOA8tEoQ4f1S-y7UuyJdaq8nVDI/">Register</a>
+-->

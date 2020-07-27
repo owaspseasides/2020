@@ -83,5 +83,6 @@ One can acknowledge the fact after going through the APT threat actors’ moveme
 
 
 <b>Yash Bharadwaj</b> is a security researcher and an enduring learner of technology. He is highly attentive towards finding, learning and discovering new TTP's used while engagements. His area of interest includes (but not limited to) evading Antivirus, Securing Active Directory infrastructure and Advance Windows based attacks. He is an active member of Null security community and OWASP chapter Bhopal. He is author at hacknpentest.com. Previously he have delivered a hands-on workshop at BSIDES Ahmedabad security conference 2019.
-
+<!--
 <a align="center" class="btn primary" target="_blank" rel="noopener" href="https://docs.google.com/forms/d/1tepplgwf55-FjbNTmpZV5qs6c4YUXN_7fbJNHZij-A4/">Register</a>
+-->

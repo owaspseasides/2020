@@ -83,5 +83,6 @@ The main aim of this training program is to educate people on Coding & Developin
 Kartheek(0xh3nry) is a member of team bi0s from Amrita Vishwa Vidyapeetham, Amritapuri. He is currently pursuing his third-year undergraduate education in Mechanical engineering, He is also looking into Mechatronics and MEMS branches as part of his curiosities, Along with his studies he enjoys developing resources to learn about Automotive security and Mechatronics with ease. You can reach out to him on Twitter @0xh3nry
 
 Rahul is a student of Amrita Vishwa Vidyapeetham, Amritapuri, he has five years of experience in python development and two years of experience in IoT projects. He was also the winner of the Arduino competition which has conducted back at Amrita Vishwa Vidyapeetham, Amritapuri by IIT Bombay (Zonal Level). Currently, he is working on developing a Mechatronics project.
-
+<!--
 <a align="center" class="btn primary" target="_blank" rel="noopener" href="https://docs.google.com/forms/d/1riDhucH3VqeFzdE2uNkjZVqIQypeKfuq3yzC7KZDFSw">Register</a>
+-->

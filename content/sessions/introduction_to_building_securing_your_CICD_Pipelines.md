@@ -87,4 +87,6 @@ This training covers understanding the internals of a CI/CD Pipeline, Bringing u
 
 <b>Joshua Jebaraj</b> works as an intern at Practical DevSecOps alongside his undergrad at Vellore Institute of Technology. He’s been in the Security domain for over 3 years with areas of interest in Web Application, Mobile Application & Cloud Security. He’s a regular contributor to various projects such as “DevSecOps-University” & “Awesome-Threat-Modelling” and is a regular speaker at the Null Community meets.
 
+<!--
 <a align="center" class="btn primary" target="_blank" rel="noopener" href="https://docs.google.com/forms/d/1mWj86bLWtZfsCnfca4dHtD17ppC-RFCsFi-nhZiODWA/">Register</a>
+-->

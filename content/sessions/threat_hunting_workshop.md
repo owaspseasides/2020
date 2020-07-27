@@ -52,4 +52,6 @@ Security analysts, incident managers, practitioners or anyone interested in lear
 
 <b>Rehaj Rahim</b> is a Director & Co-Founder at Beagle Security and Appfabs. OWASP Kerala Chapter Lead, Author of "Effective Python Penetration Testing" DevSecOps Evangelist, Developer of PenQ (Security Testing Browser Bundle). Project Lead OWASP SecureTea, Mozilla Firefox Add-ons Developer. You can reach out to him on Twitter @rejah_rehim
 
+<!--
 <a align="center" class="btn primary" target="_blank" rel="noopener" href="https://docs.google.com/forms/d/1y7lt1tdIFla1KMybD5AkihWCKbIenk_hxqH1kKHCrgo/">Register</a>
+-->
