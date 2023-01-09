@@ -8,6 +8,7 @@ menu:
 
 ---
 
+<meta http-equiv="refresh" content="0; url=https://seasides.net/" />
 
 {{% jumbo img="/images/backgrounds/back-0.jpg" imgLabel="OWASP Seasides 2020" %}}
 
